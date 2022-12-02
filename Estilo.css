@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    color:green(0, 0, 0);
+}
+
+.card-fasito{
+    background-color: blueviolet;
+    color: orange;
+}
+
+.card-imgF{  
+        width: 100%;
+        min-height: 350px;
+        height: 15vw;
+        object-fit: cover;
+}
+
+.navbar-custome{
+    background-color: rgb(148, 148, 247);
+    color: yellow;
+}
+
+#btn-custome{
+    background-color: white;
+}
